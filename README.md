@@ -5,7 +5,7 @@
 * Usuario podera agendar uma consulta com um medico cadastrado atraves do sistema.
 * Podera visualizar suas consultas marcadas
 ### Google Cloud
-Obs: não esta comunicando com o back
+Obs: não esta comunicando com o back (problemas no deploy do back no cloud)
 front-end: http://agendamento-medico-274205.appspot.com/login
 
 
