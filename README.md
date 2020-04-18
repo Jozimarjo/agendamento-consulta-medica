@@ -1,6 +1,8 @@
 # agendamento-consulta-medica
-
 ## Descrição do Projeto
+* Para acessar o Sistemas o usuario devera criar um cadastro inserindo nome,email e senha. Senha devera conter no minimo 6 digitos
+* Usuario podera agendar uma consulta com um medico cadastrado atraves do sistema.
+* Podera visualizar suas consultas marcadas
 ### Back-end
 * Maven
 * Spring Boot
