@@ -21,7 +21,7 @@ Foi disponibilizado um arquivo docker-compose.yml contendo os conteiners necess�
 
 docker-compose up
 ```bash
-$ docker-compose up
+$ docker-compose up -d
 ```
 
 O front-end será executado na porta 4200 (http://localhost:4200) e o back-end será executado na porta 8080 (http://localhost:8080).
